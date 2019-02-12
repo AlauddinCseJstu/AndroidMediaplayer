@@ -7,7 +7,7 @@ there is a sample_song.mp3 file which is played by the applicaion.
 
 the output of the program is become as like this:
 
-![screenshot_3](https://user-images.githubusercontent.com/47342679/52656875-26b29080-2eac-11e9-8ba6-63ac660b3056.png)
+![screenshot_1](https://user-images.githubusercontent.com/47342679/52657442-89585c00-2ead-11e9-8d45-33520279a710.png)
 
 now if can click the play button then play the music
 
